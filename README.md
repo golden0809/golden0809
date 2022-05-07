@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Pavlo | Skype" height="22px" src="./assets/Skype.png" />][skype]
 [<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.png" />][telegram]
 
-
+&nbsp;
 
 <a href="https://flutter.dev" rel="nofollow"> <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
 
