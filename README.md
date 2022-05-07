@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="Pavlo | Gmail" height="22px" src="./assets/Gmail.png" />][gmail]
 [<img align="left" alt="Pavlo | Skype" height="22px" src="./assets/Skype.png" />][skype]
-[<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.png" />][telegram]
+[<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.jpg" />][telegram]
 
 &nbsp;
-
+<div>
 <a href="https://flutter.dev" rel="nofollow"> <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
 
 <a href="https://dart.dev" rel="nofollow"><code>
@@ -43,6 +43,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://vuejs.org/" rel="nofollow"><code>
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </code></a>
+  
+ </div>
 
 
 
