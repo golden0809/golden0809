@@ -17,34 +17,34 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Pavlo | Telegram" height="22px" src="./assets/Telegram.jpg" />][telegram]
 
 &nbsp;
-<div>
-<a href="https://flutter.dev" rel="nofollow"> <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
 
-<a href="https://dart.dev" rel="nofollow"><code>
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-</code></a>
+[<code>
+<img alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+</code>](https://flutter.dev/)
 
-<a href="https://firebase.google.com/" rel="nofollow"><code>
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-</code></a>
+[<code>
+<img alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+</code>](https://dart.dev/)
 
-<a href="https://graphql.org/" rel="nofollow"><code>
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-</code></a>
+[<code>
+<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+</code>](https://firebase.google.com/)
 
-<a href="https://code.visualstudio.com/" rel="nofollow"><code>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code></a>
+[<code>
+<img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+</code>](https://graphql.org/)
 
-<a href="https://reactjs.org/" rel="nofollow"><code>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</code></a>
+[<code>
+<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
 
-<a href="https://vuejs.org/" rel="nofollow"><code>
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-</code></a>
-  
- </div>
+[<code>
+<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</code>](https://reactjs.org/)
+
+[<code>
+<img alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+</code>](https://vuejs.org/)
 
 
 
