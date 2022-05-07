@@ -20,32 +20,29 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 
 [<code>
-<img alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-</code>](https://flutter.dev/)
-
+<img alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</code>](https://flutter.dev)
 [<code>
-<img alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img alt="Dart" width="30px" src="https://img.icons8.com/color/48/000000/dart.png"/>
 </code>](https://dart.dev/)
-
 [<code>
-<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-</code>](https://firebase.google.com/)
-
-[<code>
-<img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-</code>](https://graphql.org/)
-
-[<code>
-<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-
 [<code>
-<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</code>](https://reactjs.org/)
-
+<img alt="intellij idea" width="30px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
 [<code>
-<img alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-</code>](https://vuejs.org/)
+<img alt="json" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)
+[<code>
+<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="github" width="30px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
+[<code>
+<img alt="ubuntu" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)
 
 
 
