@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on developing cross platform mobile application using Flutter.
+- 🔭 I’m currently working on developing cross platform mobile application using Flutter and React Native, and iOS app development using SwiftUI.
 - 👀 I’m interested in working for startup companies.
 - 🌱 I’m currently learning React, Vue and node js.
 - 📫 How to reach me: rezdew2008@gmail.com
