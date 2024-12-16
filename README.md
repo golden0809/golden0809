@@ -1,4 +1,4 @@
-- 🔭 I'm currently working on javascript frameworks such as React.js, Vue, Angular and Node.js.
+- 🔭 My main focus and expertise is in hybrid app development using Flutter and Frontend development using React.js, Vue.js and Anuglar.
 - 👀 I’m interested in working for startup companies.
 - 📫 How to reach me: rezdew2008@gmail.com
 
@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [gmail]: mailto:rezdew2008@gmail.com
 [skype]: https://join.skype.com/invite/agAYFZrAFxXi
-[telegram]: https://t.me/Golden0809
+[telegram]: https://t.me/golden423
